@@ -1,2 +1,6 @@
 hello world 
+<<<<<<< HEAD
 main branch update
+=======
+login feature added 
+>>>>>>> feature-login
