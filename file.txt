@@ -1,7 +1,10 @@
+HEAD
 hello world 
-<<<<<<< HEAD
+HEAD
 main branch update
-=======
 login feature added 
->>>>>>> feature-login
+feature-login
 main branch update
+Hello world
+login feature added
+feature-login
